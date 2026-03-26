@@ -1,0 +1,4 @@
+- Repository mit 'git remote add' verbunden.
+- Änderungen mit 'git push' übertragen.
+- Änderungen mit 'git pull' empfangen.
+- Konflikt im Pull Request erkannt und gelöst.
