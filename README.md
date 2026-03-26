@@ -11,4 +11,4 @@ Dies ist ein Übungsprojekt, um die grundlegenden Funktionen von Git und GitHub 
 ## Zweck
 Das Ziel dieses Repositories ist es, den Workflow von Commits, Pushes, Pulls und das Lösen von Merge-Konflikten in einer realistischen Umgebung zu trainieren.
 
-Ohne License
+Mit License.
